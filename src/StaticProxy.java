@@ -32,7 +32,7 @@ class WeddingCompany implements Marry{
         this.target=target;
     }
     private void before(){
-        System.out.println("结婚之前");
+        System.out.println("结2婚之前");
     }
     private void after(){
         System.out.println("结婚之后");
