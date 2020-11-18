@@ -22,6 +22,6 @@ class  Love implements ILove{
 
     @Override
     public void love(int a) {
-        System.out.println("111111111"+a);
+        System.out.println("111112111"+a);
     }
 }
